@@ -30,7 +30,7 @@ To start using the Expense Tracker project, follow these steps:
 
 1. Clone or download the project from the GitHub repository.
 
-2. Run the `expense_tracker.py` file in your Python environment.
+2. Run the `main.py` file in your Python environment.
 
 3. Interact with the menu to add income, record expenses, and generate reports.
 
@@ -42,7 +42,7 @@ To use the Expense Tracker, follow these steps:
 
 1. Clone or download the project from the GitHub repository.
 
-2. Run the `expense_tracker.py` file in your Python environment.
+2. Run the `main.py` file in your Python environment.
 
 3. Use the menu options to manage your income and expenses effectively.
 
